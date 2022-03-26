@@ -1,0 +1,11 @@
+.headerItems{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.headerSearchPanel{
+    width: 200px;
+}

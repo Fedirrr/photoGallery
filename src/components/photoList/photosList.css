@@ -1,0 +1,12 @@
+.photosListWrapper{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-basis: 33%;
+}
+
+.mapPhotos{
+    display: flex;
+    justify-content: center;
+    padding:10px;
+}
